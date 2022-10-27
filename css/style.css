@@ -1,0 +1,23 @@
+h1
+{
+	font-size: 20px;
+	font-style: italic;
+}
+
+h2 { background-color: red; }
+h3 { background-color: green; }
+h4 { background-color: blue; }
+h2 {
+	font-size: 40px;
+	font-style: italic;
+}
+h3 {
+	font-size: 40px;
+	font-style: italic;
+}
+h4 {
+	font-size: 40 px;
+	font-style: italic;
+}
+nav { background-color: pink;}
+p { background-color: orange
